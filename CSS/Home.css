@@ -336,14 +336,17 @@ iframe{
 
     #img1 p{
         font-size: 4vw;
+        margin-left: 20%;
     }
 
     #img2 p{
         font-size: 4vw;
+        margin-left: 20%;
     }
 
     #img3 p{
         font-size: 4vw;
+        margin-left: 20%;
     }
 
     #img1 a{
@@ -352,10 +355,12 @@ iframe{
     
     #img2 a{
         font-size: 3vw;
+        margin-left: 20%;
     }
 
     #img3 a{
         font-size: 3vw;
+         margin-left: 25%;
     }
 
     #part2{
