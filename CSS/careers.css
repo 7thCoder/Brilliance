@@ -78,3 +78,20 @@ td a{
     }
     
 }
+
+@media screen and (max-width:480px) {
+
+    #description{
+        height: fit-content;
+    }
+
+    th{
+        font-size: 5vw;
+    }
+
+    table{
+        font-size: 3vw;
+        width: 100%;
+    }
+
+}
